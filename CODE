@@ -1,0 +1,10 @@
+weight = int(input("Enter Your Weight in Kgs"))
+
+height = int(input("Enter Your Height in Meters"))
+
+a = weight
+b = height
+print("Your BMI is:")
+print( a / ( b * b ))
+
+#BASIC BMI CALCULATOR USING PYTHON!
